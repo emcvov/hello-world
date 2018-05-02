@@ -1,2 +1,9 @@
 #adasdf
 this is a story.txt which is a file emcvov created.
+
+pig = '1 is pig'
+dog = '2 is dog'
+cat = '3 is cat'
+
+print pig + dog + cat
+
